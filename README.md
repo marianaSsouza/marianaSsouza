@@ -13,4 +13,4 @@
 - I like to draw, take photos, to cook and listen music!
 
 
-![Dog curtindo o repositório](/Imagens/cachorro%20dando%20like.jpeg)
+![Dog curtindo o repositório](Imagens/cachorro%20dando%20like.jpeg)
