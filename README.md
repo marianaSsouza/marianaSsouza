@@ -18,7 +18,7 @@ If you'd like to connect, feel free to reach out! ✨
 
 - 🍥 Email: marianabatistella3@gmail.com 
 - 🍥 LinkedIn: [https://www.linkedin.com/in/mariana-souza-9a3a37302/](https://www.linkedin.com/in/mariana-souza-9a3a37302/)  
-- 🍥 GitHub: [https://github.com/marianaSsouza](https://github.com/marianaSsouza)
+
 
 I'm always happy to chat about tech, data, or animal memes. 
 
