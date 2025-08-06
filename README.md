@@ -8,9 +8,9 @@
 
 ## 🐰 what i like!
 - I like to learn new things and I am always looking for new challenges.
+
 - My favorite animals are rabbits, cats and dogs!
 - I like to draw, take photos, to cook and listen music!
 
 
-
-
+![Dog curtindo o repositório](/Imagens/cachorro%20dando%20like.jpeg)
