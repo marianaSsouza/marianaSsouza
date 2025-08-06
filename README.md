@@ -13,4 +13,4 @@
 - I like to draw, take photos, to cook and listen music!
 
 
-![Dog curtindo o repositório](/marianaSsouza/Imagens/cachorro_dando_like.jpeg)
+![Dog curtindo o repositório](marianaSsouza/Imagens/cachorro_dando_like.jpeg)
