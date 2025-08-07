@@ -1,7 +1,7 @@
-# | 🌼 hi, I'm may (^-^)
+# | 🌼 Oie, eu sou a may (^-^)
 
 
-## 🐰 About me
+## 🐰 Sobre mim
 
 - I am an Information Systems student with a strong interest in data analysis and data science.
 - Currently, I’m learning how to use Python for data analysis and looking for resources to improve my skills. Could you recommend some?
