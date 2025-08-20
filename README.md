@@ -12,9 +12,10 @@ Currently, I'm learning how to build **interactive web pages** and exploring dif
 -  Hobbies: **drawing**, **photography** and **cooking**.
 
 ## 🤓 Learning Goals
-- Improve my Python skills for data analysis  
-- Learn to create great dashboards with Power BI   
+- Improve my skills in **HTML, CSS, and front-end development**  
+- Learn to build **interactive and responsive web pages**  
 > Have any tips or resources? I'd love to hear them!
+
 
 ## 🖳 Contact Me
 Feel free to reach out — I'm always happy to chat about **tech**, **data**, or even cute **animal memes** 🐾💻
