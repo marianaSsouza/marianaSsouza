@@ -1,8 +1,9 @@
 # 🌼 Hello, I'm May! (^-^)
 
 ## 👩‍💻 About Me
-I'm a **Information Systems student** deeply interested in **data analysis** and **data science**.  
-Currently learning how to use **Python** for data analysis and diving into **Power BI** to master data visualization.
+## 👩‍💻 About Me
+I'm an **Information Systems student** with a strong interest in **programming**, especially in **HTML, CSS, and front-end development**.  
+Currently, I'm learning how to build **interactive web pages** and exploring different tools and frameworks to improve my skills in **web development**.
 
 
 ## 🐰 What I Like
