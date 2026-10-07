@@ -1,18 +1,18 @@
 # 🌼 Hello, I'm May! (^-^)
 
 ## 👩‍💻 About Me
-I'm an **Information Systems student** with a strong interest in **programming**, especially in **HTML, CSS, and front-end development**.  
-Currently, I'm learning how to build **interactive web pages** and exploring different tools and frameworks to improve my skills in **web development**.
+I'm an Information Systems student and currently work as a QA Analyst, focusing on software quality, testing, and user experience.
 
+I'm interested in understanding how systems work, identifying problems, analyzing requirements, and making sure everything works as expected before reaching the user.
 
-## 🐰 What I Like
--  Learning new things and solving fun challenges  
--  My favorite animals: **rabbits**, **cats**, and **dogs**  
--  Hobbies: **drawing**, **photography** and **cooking**.
+I'm not exactly a programming enthusiast... but I do enjoy finding the bugs that programmers accidentally leave behind. 👀
 
 ## 🤓 Learning Goals
-- Improve my skills in **HTML, CSS, and front-end development**  
-- Learn to build **interactive and responsive web pages**  
+- Software Quality and QA
+- Test case design
+- System analysis
+- Requirements analysis
+- Web technologies and how they work behind the scenes
 > Have any tips or resources? I'd love to hear them!
 
 
@@ -25,7 +25,7 @@ Feel free to reach out — I'm always happy to chat about **tech**, **data**, or
 
 ---
 
-💡 *Let’s connect and build cool things together!*
+💡 *I may not love writing code, but I definitely love making sure it works.*
 
 
 ![Dog curtindo o repositório](Imagens/cachorro_dando_like.jpeg)
